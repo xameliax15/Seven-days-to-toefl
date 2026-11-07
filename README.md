@@ -1,5 +1,7 @@
 # Seven Days to TOEFL
 
+![Ilustrasi utama Seven Days to TOEFL](gui/main_menu_toefl_library.png)
+
 **Seven Days to TOEFL** adalah visual novel edukasi berbasis [Ren'Py](https://www.renpy.org/) yang mengajak pemain mempersiapkan TOEFL selama tujuh hari. Pemain mengikuti cerita sebuah kelompok belajar, mengerjakan latihan, membuat pilihan, dan menghadapi simulasi ujian pada hari terakhir.
 
 ## Informasi proyek
